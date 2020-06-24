@@ -1,0 +1,23 @@
+{
+  "name": "onixsystemsvisualtests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "percy": "npx percy exec -- cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teddorian/onixSystemsVisualTests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teddorian/onixSystemsVisualTests/issues"
+  },
+  "homepage": "https://github.com/teddorian/onixSystemsVisualTests#readme",
+  "devDependencies": {
+    "@percy/cypress": "^2.3.1",
+    "cypress": "^4.9.0"
+  }
+}
