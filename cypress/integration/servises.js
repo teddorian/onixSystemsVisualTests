@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
 
-describe('Visual Test for ServicesPage', function() 
+describe('Visual Test for ServicesPage, widths:828, 540, 1920', function() 
 {
 
 it('Loads the ServicesOverview',function() {

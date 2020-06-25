@@ -24,7 +24,7 @@
   "percy": {
     "version": 1,
     "snapshot": {
-    "widths": [828, 540, 1920],
+    "widths": [828, 540, 1536, 1920],
     "min-height": 1024,
     "percy-css": "iframe { display: none; }"
   }
