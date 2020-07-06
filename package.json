@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "percy": "npx percy exec -- cypress run"
+    "percy": "npx percy exec -- cypress run",
+    "staging": "npx percy exec -- cypress run --spec /Users/bogdandoroshenko/onixSystemsVisualTests/cypress/integration/staging/services.js"
   },
   "repository": {
     "type": "git",
